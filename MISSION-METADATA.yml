@@ -1,0 +1,9 @@
+schema_version: 1
+current_mission_id: B7-1
+previous_mission_ids:
+  - B7-1
+stable_topic_id: ai-chatbot
+official_title_ko: "웹 기반 AI 챗봇 서비스 개발 프로젝트"
+repository: MetaStudy999/codyssey-basic-ai-chatbot
+control_tower_map: https://github.com/MetaStudy999/codyssey-basic/blob/main/CURRENT-MISSION-MAP.md
+numbering_updated_at: "2026-09-03"
