@@ -9,6 +9,8 @@
 - [ ] `training/round-01-clear/` 참고자료 확인
 
 ## Gate 2 — 평가항목 먼저
+- [ ] [`docs/EVALUATION.md`](docs/EVALUATION.md) 확인
+- [ ] Round 02 Evaluation 문서가 공식 평가 원문이 아니라 Round 01 Q&A Reference 정식화 자료임을 구분
 - [ ] 공식 요구사항과 기존 Evaluation 비교
 - [ ] 공식 요구 / 기존 평가 / AI 예상 질문 구분
 - [ ] Requirement → Implementation → Verification → Evidence → Evaluation 연결 초안 작성
