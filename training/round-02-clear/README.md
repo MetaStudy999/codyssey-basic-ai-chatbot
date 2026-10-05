@@ -10,7 +10,7 @@
 - 현재 제목: **웹 기반 AI 챗봇 서비스 개발 프로젝트**
 - Repository: `MetaStudy999/codyssey-basic-ai-chatbot`
 - 과거 Mission ID: `B7-1`
-- 기존 평가자료: 별도 공식 Evaluation 파일 없음 — 현재 Mission 요구사항과 Term Project 평가 기준 사용
+- Round 02 평가 준비: [`docs/EVALUATION.md`](docs/EVALUATION.md) — Round 01 Evaluation Q&A Reference를 정식화한 평가 준비 문서이며, 제2기 공식 평가 원문을 대체하지 않음
 
 현재 번호·제목·공식 요구사항은 **제2기 현재 Mission PDF**를 최우선으로 사용한다. Repository의 과거 번호 파일은 동일 주제의 1기 참고자료로 사용한다.
 
@@ -58,6 +58,11 @@
 - 선택 고도화와 대규모 리팩터링은 필수 요구 완료 뒤로 미룬다.
 - 평가 답변은 `WHAT → WHY → HOW → VERIFY → LIMITATION` 구조로 준비한다.
 - Secret, Token, Password, Private Key는 Repository·Chat·Evidence에 남기지 않는다.
+
+## 평가 준비
+
+- [Round 02 Evaluation](docs/EVALUATION.md) — 기존 Round 01 Evaluation Q&A Reference를 Round 02 평가 체크리스트로 정식화
+- 제2기 공식 Mission PDF / Term Project 평가 기준이 최우선이며, 위 문서는 공식 평가 원문으로 간주하지 않는다.
 
 ## 시작
 
