@@ -11,3 +11,7 @@
 - [시각자료 (적용)](05-assets/README.md)
 
 아직 PPTX/PDF를 제작하지 않았습니다.
+
+## 학습 보조자료
+
+[용어·개념도·코드 추적·실습·오류·문제은행·복습](06-learning-activities/README.md). 기존 4종 슬라이드 목표 유지.
