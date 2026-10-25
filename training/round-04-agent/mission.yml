@@ -1,0 +1,22 @@
+schema_version: "1.0"
+generation: "CODYSSEY Round 02 / 제2기"
+mission_id: "B7-1"
+title: "웹 기반 AI 챗봇 서비스 개발 프로젝트"
+stable_topic: "ai-chatbot"
+repository: "MetaStudy999/codyssey-basic-ai-chatbot"
+requirement: "REQUIRED_TERM_PROJECT"
+execution_round: round-04-agent
+execution_root: training/round-04-agent
+authoring_root: training/round-04-agent/04-src
+planning_root: training/round-04-agent/00-plan
+test_root: training/round-04-agent/05-tests
+evidence_root: training/round-04-agent/06-evidence
+evaluation_root: training/round-04-agent/07-evaluation
+presentation_root: training/round-04-agent/08-presentation
+handoff_root: training/round-04-agent/09-handoff
+owner_path_directive: APPROVED_2026-10-25
+owner_mission_development_approval: PENDING
+mission_execution: NOT_STARTED
+runtime: NOT_VERIFIED
+clear: NOT_VERIFIED
+legacy_rounds: REFERENCE_ONLY
